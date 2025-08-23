@@ -24,7 +24,7 @@ redirect_from:
 </div>
 
 # 🔥 News
-- *2025.06*, 🎉🎉 Happy to get "Challenge Cup" Chongqing College Student Curricular Academic Science and Technology Works Competition, Grand Prize.
+- *2025.06*, 🎉🎉 Happy to get "Challenge Cup" Chongqing College Student Extracurricular Academic and Technological Works Competition, Provincial Grand Prize.
 - *2025.02*, 🎉🎉 Our paper was accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)]
 - *2024.12*, 🎉🎉 Happy to get THE 6TH DIGIX GLOBAL AI CHALLENGE, National Second Prize.
 
@@ -40,7 +40,7 @@ redirect_from:
 - *2023.01 - 2023.12*, An English Exploration Park Based on Air Handwriting Interaction, With four national-level awards and three provincial-level awards.
 
 # 🚩 Competitions 
-- *2025.06*, "Challenge Cup" Chongqing College Student Curricular Academic Science and Technology Works Competition, Grand Prize.
+- *2025.06*, "Challenge Cup" Chongqing College Student Extracurricular Academic and Technological Works Competition, Provincial Grand Prize.
 - *2024.12*, THE 6TH DIGIX GLOBAL AI CHALLENGE, National Second Prize.
 - *2024.08*, RAICOM 2024, National Thrid prize.
 - *2024.07*, RAICOM 2024, Provincial Second Prize.
