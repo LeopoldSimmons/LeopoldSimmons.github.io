@@ -33,7 +33,8 @@ redirect_from:
 - *2021.09 - 2025.06*, Bachelor of Engineering, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 # 📄 Papers
-- *2025.02*,  _"Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection"_ accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)]
+
+- *2025.02*, **Xuyang Zhou**, Ye Wang*, Fei Tao, et al. Hierarchical chat-based strategies with MLLMs for Spatio-temporal action detection[J]. Information Processing & Management, 2025, 62(4): 104094. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)]
 
 # 📝 Projects
 - *2023.06 - 2024.06*, Digitizing Your Mindmap, Supported by National Undergraduate Training Program for Innovation and Entrepreneurship with Project No.202310617004.
