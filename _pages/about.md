@@ -20,7 +20,7 @@ redirect_from:
 
 # 🌞 About Me
 <div style="padding-left: 20px;">
-&nbsp;&nbsp;&nbsp; Hey there! 👋 So glad you stopped by my page! Let me introduce myself real quick ~ ❤️❤️❤️ My name is Xuyang Zhou (周绪洋). And I’m an Ph.D. student at Chongqing University of Posts and Telecommunications, working under the awesome guidance of  <a href="https://faculty.cqupt.edu.cn/liuqun/zh_CN/index.htm">Qun Liu</a>, <a href="https://wangye0523.github.io/">Ye Wang</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ">Fei Tao</a>.By the way, I’m super into sci-fi novels and movies ——can’t get enough of them, haha!😆😆😆 Best wishes for our future adventures!✨
+&nbsp;&nbsp;&nbsp; Hey there! 👋 So glad you stopped by my page! Let me introduce myself real quick ~ ❤️❤️❤️ My name is Xuyang Zhou (周绪洋). And I’m an Ph.D. student at Chongqing University of Posts and Telecommunications, working under the awesome guidance of  <a href="https://faculty.cqupt.edu.cn/liuqun/zh_CN/index.htm">Qun Liu</a>, <a href="https://wangye0523.github.io/">Ye Wang</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ">Fei Tao</a>. By the way, I’m super into sci-fi novels and movies ——can’t get enough of them, haha!😆😆😆 Best wishes for our future adventures!✨
 </div>
 
 # 🔥 News
