@@ -33,8 +33,8 @@ redirect_from:
 - *2021.09 - 2025.06*, Bachelor of Engineering, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 # 📄 Papers
-
-- *2025.02*, **Xuyang Zhou**, Ye Wang*, Fei Tao, et al. Hierarchical chat-based strategies with MLLMs for Spatio-temporal action detection[J]. Information Processing & Management, 2025, 62(4): 104094. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)]
+- *2026.05*, Ye Wang*, Pan Sun, **Xuyang Zhou**, et al. Hierarchical Causal Learning for Face Age Synthesis[J]. IEEE Transactions on Image Processing, 2026: 1-1. [[Github](https://github.com/SE-hash/HCFace)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)]
+- *2025.02*, **Xuyang Zhou**, Ye Wang*, Fei Tao, et al. Hierarchical chat-based strategies with MLLMs for Spatio-temporal action detection[J]. Information Processing & Management, 2025, 62(4): 104094. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1109/TIP.2026.3689413)]
 
 # 📝 Projects
 - *2023.06 - 2024.06*, Digitizing Your Mindmap, Supported by National Undergraduate Training Program for Innovation and Entrepreneurship with Project No.202310617004.
