@@ -24,16 +24,16 @@ redirect_from:
 </div>
 
 # 🔥 News
+- *2026.05*, 🎉🎉 Our paper was accepted by _IEEE Transactions on Image Processing(TIP)_. [[Github](https://github.com/SE-hash/HCFace)][[Paper](https://doi.org/10.1109/TIP.2026.3689413)]
 - *2025.12*, 🎉🎉 Happy to get "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition, National Thrid Prize.
 - *2025.06*, 🎉🎉 Happy to get "Challenge Cup" Chongqing College Student Extracurricular Academic and Technological Works Competition, Provincial Grand Prize.
-- *2025.02*, 🎉🎉 Our paper was accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)]
 
 # 📖 Educations
 - *2025.09 - Now*, Ph.D. student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 - *2021.09 - 2025.06*, Bachelor of Engineering, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 # 📄 Papers
-- *2026.05*, Ye Wang, Pan Sun, **Xuyang Zhou**, et al. Hierarchical Causal Learning for Face Age Synthesis[J]. IEEE Transactions on Image Processing, 2026, Early Access. [[Github](https://github.com/SE-hash/HCFace)][[Paper](https://doi.org/10.1109/TIP.2026.3689413)]
+- *2026.05*, Ye Wang, Pan Sun, **Xuyang Zhou**, et al. Hierarchical Causal Learning for Face Age Synthesis[J]. IEEE Transactions on Image Processing, 2026, 35: 4921-4933. [[Github](https://github.com/SE-hash/HCFace)][[Paper](https://doi.org/10.1109/TIP.2026.3689413)]
 - *2025.02*, **Xuyang Zhou**, Ye Wang*, Fei Tao, et al. Hierarchical chat-based strategies with MLLMs for Spatio-temporal action detection[J]. Information Processing & Management, 2025, 62(4): 104094. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)]
 
 # 📝 Projects
