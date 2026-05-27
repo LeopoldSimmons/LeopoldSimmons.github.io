@@ -56,6 +56,7 @@ redirect_from:
 - *2023.05*, The 16th Chinese Collegiate Computing Competition, Provincial Second Prize.
 
 # 🏆 Honors and Awards
+- *2025.12*, The First-Class Academic Scholarship for Doctoral Students of the year 2025, offered by Chongqing University of Posts and Telecommunications.
 - *2025.02*, The Excellent Student Cadre offered by Chongqing University of Posts and Telecommunications.
 - *2024.10*, The Second Scholarship offered by Chongqing University of Posts and Telecommunications.
 - *2024.06*, The Outstanding Completion in the National College Student Innovation and Entrepreneurship Training Program.
