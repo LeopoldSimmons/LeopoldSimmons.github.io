@@ -68,7 +68,18 @@ redirect_from:
 - *2023.02*, The Excellent Student Cadre offered by Chongqing University of Posts and Telecommunications.
 
 # 🌍 Visit Statistics
-<div align="center"> <a href='https://clustrmaps.com/site/1c0yo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=uMzsnt-1fWrC3CQgYTM53tlxUHNzRzMReLoKwaO0fOc'/></a>
+<div style="width:100%; margin: 0 auto;">
+  <iframe
+    src="https://cloud.umami.is/share/ZLZlfBYXU6Mxj83q"
+    title="Visit Statistics"
+    loading="lazy"
+    style="width:100%; height:780px; border:0; border-radius:8px; overflow:hidden;">
+  </iframe>
+</div>
+
+<p style="text-align:center; font-size:0.9em; margin-top:8px;">
+  <a href="https://cloud.umami.is/share/ZLZlfBYXU6Mxj83q">Open visit statistics</a>
+</p>
 
 <!--
 # 💬 Invited Talks
