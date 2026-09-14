@@ -69,7 +69,7 @@ redirect_from:
 
 # 🌍 Visit Statistics
 <div style="text-align:center;">
-  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=300&t=tt&d=jYTfpnZkCKtTYt8B8COrjc1eiC-TwKQ8duXWCeGdNnM&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=500&t=tt&d=jYTfpnZkCKtTYt8B8COrjc1eiC-TwKQ8duXWCeGdNnM&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
 </div>
 
 <!--
