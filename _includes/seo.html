@@ -8,7 +8,11 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
+{% if page.lang == "zh-CN" %}
+<title>周绪洋 - 个人主页</title>
+{% else %}
 <title>{{ site.title }} - Homepage</title>
+{% endif %}
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
