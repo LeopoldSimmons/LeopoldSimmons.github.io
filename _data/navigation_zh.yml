@@ -1,0 +1,25 @@
+# 中文导航
+main:
+  - title: "关于我"
+    url: "/zh/#about-me"
+
+  - title: "最新动态"
+    url: "/zh/#news"
+
+  - title: "教育经历"
+    url: "/zh/#educations"
+
+  - title: "论文"
+    url: "/zh/#papers"
+
+  - title: "项目经历"
+    url: "/zh/#projects"
+
+  - title: "竞赛经历"
+    url: "/zh/#competitions"
+
+  - title: "荣誉与奖励"
+    url: "/zh/#honors-and-awards"
+
+  - title: "访问统计"
+    url: "/zh/#visit-statistics"
