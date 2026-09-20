@@ -18,7 +18,7 @@ lang: zh-CN
 
 # 🌞 关于我
 <div style="padding-left: 20px;">
-&nbsp;&nbsp;&nbsp; 你好！👋 很高兴你来到我的个人主页！简单介绍一下自己 ~ ❤️❤️❤️ 我叫周绪洋（Xuyang Zhou），目前是重庆邮电大学计算机科学与技术专业博士研究生，在 <a href="https://faculty.cqupt.edu.cn/liuqun/zh_CN/index.htm">刘群</a>、<a href="https://wangye0523.github.io/">王晔</a> 和 <a href="https://scholar.google.com/citations?user=KhWMky4AAAAJ">陶飞</a> 老师的指导下开展研究。顺便一提，我非常喜欢科幻小说和电影——怎么都看不够，哈哈！😆😆😆 Don't panic，让我们一起继续探索宇宙吧！！✨
+&nbsp;&nbsp;&nbsp; 你好！👋 很高兴你来到我的个人主页！简单介绍一下自己 ~ ❤️❤️❤️ 我叫周绪洋，目前是重庆邮电大学计算机科学与技术专业直博生，在 <a href="https://faculty.cqupt.edu.cn/liuqun/zh_CN/index.htm">刘群</a>、<a href="https://wangye0523.github.io/">王烨</a> 和 <a href="https://scholar.google.com/citations?user=KhWMky4AAAAJ">陶斐</a> 老师的指导下开展研究。顺便一提，我非常喜欢科幻小说和电影，哈哈！😆😆😆 
 </div>
 
 <span class='anchor' id='news'></span>
@@ -31,7 +31,7 @@ lang: zh-CN
 <span class='anchor' id='educations'></span>
 
 # 📖 教育经历
-- *2025.09 - 至今*, 重庆邮电大学，计算机科学与技术专业，博士研究生，中国重庆。
+- *2025.09 - 至今*, 重庆邮电大学，计算机科学与技术专业，直博生，中国重庆。
 - *2021.09 - 2025.06*, 重庆邮电大学，计算机科学与技术专业，工学学士，中国重庆。
 
 <span class='anchor' id='papers'></span>
