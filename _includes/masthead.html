@@ -15,15 +15,20 @@
           {% for link in nav_links %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-
-          {% if page.lang == "zh-CN" %}
-            <li class="masthead__menu-item"><a href="/" target="_self" aria-label="Switch to English">EN</a></li>
-          {% else %}
-            <li class="masthead__menu-item"><a href="/zh/" target="_self" aria-label="切换到中文">中文</a></li>
-          {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+    </div>
+
+    <div class="language-switch" role="group" aria-label="{% if page.lang == 'zh-CN' %}语言切换{% else %}Language switcher{% endif %}">
+      <span class="language-switch__icon" aria-hidden="true"><i class="fas fa-globe"></i></span>
+      {% if page.lang == "zh-CN" %}
+        <span class="language-switch__option is-active" aria-current="page">中文</span>
+        <a class="language-switch__option" href="/" target="_self" lang="en" hreflang="en" aria-label="Switch to English">EN</a>
+      {% else %}
+        <a class="language-switch__option" href="/zh/" target="_self" lang="zh-CN" hreflang="zh-CN" aria-label="切换到中文">中文</a>
+        <span class="language-switch__option is-active" aria-current="page">EN</span>
+      {% endif %}
     </div>
   </div>
 </div>
