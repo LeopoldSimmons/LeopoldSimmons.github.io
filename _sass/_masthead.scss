@@ -16,9 +16,6 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
     padding: .5em;
     font-family: $sans-serif-narrow;
 
@@ -37,11 +34,15 @@
 }
 
 .masthead__menu {
-  flex: 1 1 auto;
-  min-width: 0;
 
+  /*
+   * Reserve a small area on the right for the language toggle and the
+   * responsive menu button. The toggle stays inside the navigation bar,
+   * so it never drops onto a second row.
+   */
   .greedy-nav {
-    min-width: 0;
+    box-sizing: border-box;
+    padding-right: 7.2rem;
   }
 
   ul {
@@ -49,6 +50,42 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+  }
+
+  .greedy-nav .language-toggle {
+    position: absolute;
+    top: 50%;
+    right: 3rem;
+    z-index: 12;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem;
+    min-width: 3.75rem;
+    height: 2rem;
+    margin: 0;
+    padding: 0 0.7rem;
+    border: 1px solid mix(#fff, $primary-color, 55%);
+    border-radius: 999px;
+    background: #fff;
+    box-shadow: 0 1px 4px rgba(#000, 0.10);
+    color: $masthead-link-color;
+    font-size: $type-size-7;
+    font-weight: 700;
+    line-height: 1;
+    white-space: nowrap;
+    transform: translateY(-50%);
+    transition: $global-transition;
+
+    &:hover {
+      color: #fff;
+      background: $primary-color;
+      border-color: $primary-color;
+    }
+
+    i {
+      font-size: 0.9em;
+    }
   }
 }
 
@@ -70,73 +107,18 @@
   }
 }
 
-
-
-
-/*
-   Language switcher
-   ========================================================================== */
-
-.language-switch {
-  flex: 0 0 auto;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.15rem;
-  padding: 0.2rem;
-  border: 1px solid $border-color;
-  border-radius: 999px;
-  background: #fff;
-  box-shadow: 0 1px 5px rgba(#000, 0.10);
-  font-family: $sans-serif-narrow;
-  font-size: $type-size-7;
-  line-height: 1;
-  white-space: nowrap;
-
-  &__icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 1.75rem;
-    height: 1.75rem;
-    color: $masthead-link-color;
-  }
-
-  &__option {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    min-width: 2.65rem;
-    height: 1.75rem;
-    margin: 0;
-    padding: 0 0.65rem;
-    border-radius: 999px;
-    color: $masthead-link-color;
-    font-weight: 700;
-    text-decoration: none;
-    transition: $global-transition;
-
-    &:hover {
-      color: $masthead-link-color-hover;
-      background: $lighter-gray;
+@media (max-width: 480px) {
+  .masthead__menu {
+    .greedy-nav {
+      padding-right: 6.4rem;
     }
 
-    &.is-active {
-      color: #fff;
-      background: $primary-color;
-      cursor: default;
-    }
-  }
-
-  @media (max-width: 480px) {
-    gap: 0.1rem;
-
-    &__icon {
-      display: none;
-    }
-
-    &__option {
-      min-width: 2.35rem;
-      padding: 0 0.5rem;
+    .greedy-nav .language-toggle {
+      right: 2.75rem;
+      min-width: 3.2rem;
+      height: 1.9rem;
+      padding: 0 0.55rem;
+      font-size: 0.72rem;
     }
   }
 }
