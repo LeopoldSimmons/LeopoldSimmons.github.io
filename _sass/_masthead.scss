@@ -16,6 +16,9 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
     padding: .5em;
     font-family: $sans-serif-narrow;
 
@@ -34,6 +37,12 @@
 }
 
 .masthead__menu {
+  flex: 1 1 auto;
+  min-width: 0;
+
+  .greedy-nav {
+    min-width: 0;
+  }
 
   ul {
     margin: 0;
@@ -62,3 +71,72 @@
 }
 
 
+
+
+/*
+   Language switcher
+   ========================================================================== */
+
+.language-switch {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.15rem;
+  padding: 0.2rem;
+  border: 1px solid $border-color;
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: 0 1px 5px rgba(#000, 0.10);
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-7;
+  line-height: 1;
+  white-space: nowrap;
+
+  &__icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.75rem;
+    height: 1.75rem;
+    color: $masthead-link-color;
+  }
+
+  &__option {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.65rem;
+    height: 1.75rem;
+    margin: 0;
+    padding: 0 0.65rem;
+    border-radius: 999px;
+    color: $masthead-link-color;
+    font-weight: 700;
+    text-decoration: none;
+    transition: $global-transition;
+
+    &:hover {
+      color: $masthead-link-color-hover;
+      background: $lighter-gray;
+    }
+
+    &.is-active {
+      color: #fff;
+      background: $primary-color;
+      cursor: default;
+    }
+  }
+
+  @media (max-width: 480px) {
+    gap: 0.1rem;
+
+    &__icon {
+      display: none;
+    }
+
+    &__option {
+      min-width: 2.35rem;
+      padding: 0 0.5rem;
+    }
+  }
+}
